@@ -9,5 +9,6 @@ class RegistActivity : AppCompatActivity() {
         setContentView(R.layout.activity_regist)
         //halo
         //aaaa
+        //blasa
     }
 }
