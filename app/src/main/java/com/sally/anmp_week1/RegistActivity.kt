@@ -8,5 +8,6 @@ class RegistActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_regist)
         //halo
+        //aaaa
     }
 }
