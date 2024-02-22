@@ -10,6 +10,7 @@ class RegistActivity : AppCompatActivity() {
         //halo
         //aaaa
         //blasa
+        //asdcaioda
             //sdiied
     }
 }
