@@ -8,10 +8,6 @@
         "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.sally.anmp_week1.app-main-49:\\layout\\fragment_game.xml"
     },
     {
-        "merged": "com.sally.anmp_week1.app-mergeDebugResources-46:/layout/fragment_result.xml",
-        "source": "com.sally.anmp_week1.app-main-49:/layout/fragment_result.xml"
-    },
-    {
         "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.sally.anmp_week1.app-mergeDebugResources-46:\\layout\\activity_main.xml",
         "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.sally.anmp_week1.app-main-49:\\layout\\activity_main.xml"
     },
@@ -32,15 +28,15 @@
         "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.sally.anmp_week1.app-main-49:\\layout\\activity_sign_up.xml"
     },
     {
-        "merged": "com.sally.anmp_week1.app-mergeDebugResources-46:/layout/fragment_game.xml",
-        "source": "com.sally.anmp_week1.app-main-49:/layout/fragment_game.xml"
-    },
-    {
-        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.sally.anmp_week1.app-mergeDebugResources-46:\\layout\\activity_regist.xml",
-        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.sally.anmp_week1.app-main-49:\\layout\\activity_regist.xml"
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.sally.anmp_week1.app-mergeDebugResources-46:\\layout\\fragment_result.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.sally.anmp_week1.app-main-49:\\layout\\fragment_result.xml"
     },
     {
         "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.sally.anmp_week1.app-mergeDebugResources-46:\\layout\\fragment_main.xml",
         "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.sally.anmp_week1.app-main-49:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.sally.anmp_week1.app-mergeDebugResources-46:\\layout\\activity_regist.xml",
+        "source": "C:\\Users\\acer\\.gradle\\daemon\\8.0\\com.sally.anmp_week1.app-main-49:\\layout\\activity_regist.xml"
     }
 ]

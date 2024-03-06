@@ -28,13 +28,6 @@
         android:testOnly="true"
         android:theme="@style/Theme.ANMP_Week1" >
         <activity
-            android:name="com.sally.anmp_week1.SignUpActivity"
-            android:exported="false" />
-        <activity
-            android:name="com.sally.anmp_week1.LoginActivity"
-            android:exported="true" >
-        </activity>
-        <activity
             android:name="com.sally.anmp_week1.MainActivity"
             android:exported="true" >
             <intent-filter>
