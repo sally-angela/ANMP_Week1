@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/navigation_game_navigation.xml.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/navigation/game_navigation.xml"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/layout_fragment_main.xml.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/layout_activity_login.xml.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/layout_fragment_game.xml.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/layout/fragment_game.xml"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/layout_activity_regist.xml.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/layout/activity_regist.xml"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/xml_backup_rules.xml.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/layout_activity_coba.xml.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/layout/activity_coba.xml"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/layout_activity_main.xml.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/layout_activity_regist2.xml.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/layout/activity_regist2.xml"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/xml_data_extraction_rules.xml.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/layout_activity_sign_up.xml.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.sally.anmp_week1.app-merged_res-47:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sally.anmp_week1.app-main-49:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]

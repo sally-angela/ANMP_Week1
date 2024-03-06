@@ -1,0 +1,10 @@
+C:\Users\acer\AndroidStudioProjects\ANMP\ANMP_Week1\app\src\main\java\com\sally\anmp_week1\LoginActivity.kt
+C:\Users\acer\AndroidStudioProjects\ANMP\ANMP_Week1\app\build\generated\source\navigation-args\debug\com\sally\anmp_week1\GameFragmentArgs.kt
+C:\Users\acer\AndroidStudioProjects\ANMP\ANMP_Week1\app\src\main\java\com\sally\anmp_week1\MainActivity.kt
+C:\Users\acer\AndroidStudioProjects\ANMP\ANMP_Week1\app\src\main\java\com\sally\anmp_week1\SignUpActivity.kt
+C:\Users\acer\AndroidStudioProjects\ANMP\ANMP_Week1\app\build\generated\source\navigation-args\debug\com\sally\anmp_week1\GameFragmentDirections.kt
+C:\Users\acer\AndroidStudioProjects\ANMP\ANMP_Week1\app\src\main\java\com\sally\anmp_week1\coba.kt
+C:\Users\acer\AndroidStudioProjects\ANMP\ANMP_Week1\app\src\main\java\com\sally\anmp_week1\RegistActivity.kt
+C:\Users\acer\AndroidStudioProjects\ANMP\ANMP_Week1\app\build\generated\source\navigation-args\debug\com\sally\anmp_week1\MainFragmentDirections.kt
+C:\Users\acer\AndroidStudioProjects\ANMP\ANMP_Week1\app\src\main\java\com\sally\anmp_week1\GameFragment.kt
+C:\Users\acer\AndroidStudioProjects\ANMP\ANMP_Week1\app\src\main\java\com\sally\anmp_week1\MainFragment.kt
