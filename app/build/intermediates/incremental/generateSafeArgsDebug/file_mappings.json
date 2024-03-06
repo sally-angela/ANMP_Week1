@@ -1,1 +1,1 @@
-[{"navFile":"src\\main\\res\\navigation\\game_navigation.xml","javaFiles":["com.sally.anmp_week1.MainFragmentDirections","com.sally.anmp_week1.GameFragmentDirections","com.sally.anmp_week1.GameFragmentArgs"]}]
+[{"navFile":"src\\main\\res\\navigation\\game_navigation.xml","javaFiles":["com.sally.anmp_week1.MainFragmentDirections","com.sally.anmp_week1.GameFragmentDirections","com.sally.anmp_week1.GameFragmentArgs","com.sally.anmp_week1.ResultFragmentDirections","com.sally.anmp_week1.ResultFragmentArgs"]}]

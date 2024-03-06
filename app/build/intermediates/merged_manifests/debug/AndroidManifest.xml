@@ -28,13 +28,11 @@
         android:testOnly="true"
         android:theme="@style/Theme.ANMP_Week1" >
         <activity
+            android:name="com.sally.anmp_week1.SignUpActivity"
+            android:exported="false" />
+        <activity
             android:name="com.sally.anmp_week1.LoginActivity"
             android:exported="true" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name="com.sally.anmp_week1.MainActivity"

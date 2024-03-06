@@ -7,6 +7,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.FrameLayout;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
@@ -21,16 +22,24 @@ public final class FragmentGameBinding implements ViewBinding {
   private final FrameLayout rootView;
 
   @NonNull
-  public final Button btnBack;
+  public final Button btnSubmit;
 
   @NonNull
-  public final EditText txtTurn;
+  public final EditText txtAnswer;
 
-  private FragmentGameBinding(@NonNull FrameLayout rootView, @NonNull Button btnBack,
-      @NonNull EditText txtTurn) {
+  @NonNull
+  public final TextView txtPlayerName;
+
+  @NonNull
+  public final TextView txtQuestion;
+
+  private FragmentGameBinding(@NonNull FrameLayout rootView, @NonNull Button btnSubmit,
+      @NonNull EditText txtAnswer, @NonNull TextView txtPlayerName, @NonNull TextView txtQuestion) {
     this.rootView = rootView;
-    this.btnBack = btnBack;
-    this.txtTurn = txtTurn;
+    this.btnSubmit = btnSubmit;
+    this.txtAnswer = txtAnswer;
+    this.txtPlayerName = txtPlayerName;
+    this.txtQuestion = txtQuestion;
   }
 
   @Override
@@ -60,19 +69,32 @@ public final class FragmentGameBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.btnBack;
-      Button btnBack = ViewBindings.findChildViewById(rootView, id);
-      if (btnBack == null) {
+      id = R.id.btnSubmit;
+      Button btnSubmit = ViewBindings.findChildViewById(rootView, id);
+      if (btnSubmit == null) {
         break missingId;
       }
 
-      id = R.id.txtTurn;
-      EditText txtTurn = ViewBindings.findChildViewById(rootView, id);
-      if (txtTurn == null) {
+      id = R.id.txtAnswer;
+      EditText txtAnswer = ViewBindings.findChildViewById(rootView, id);
+      if (txtAnswer == null) {
         break missingId;
       }
 
-      return new FragmentGameBinding((FrameLayout) rootView, btnBack, txtTurn);
+      id = R.id.txtPlayerName;
+      TextView txtPlayerName = ViewBindings.findChildViewById(rootView, id);
+      if (txtPlayerName == null) {
+        break missingId;
+      }
+
+      id = R.id.txtQuestion;
+      TextView txtQuestion = ViewBindings.findChildViewById(rootView, id);
+      if (txtQuestion == null) {
+        break missingId;
+      }
+
+      return new FragmentGameBinding((FrameLayout) rootView, btnSubmit, txtAnswer, txtPlayerName,
+          txtQuestion);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
